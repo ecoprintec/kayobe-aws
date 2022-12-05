@@ -1,4 +1,5 @@
 # kayobe-aws
+- 20221202 실패 | first commit 버전(3f71d16) | Asnsible 배포 중 네트워크 끊김 | AWS Console로 확인 해 볼것
 
 ## git
 ```
